@@ -106,8 +106,8 @@ The notebook includes:
 ## Project Structure
 
 ```
-├── Time Series Analysis.ipynb
 ├── Walmart_Cleaned.csv
+├── Time Series Analysis.ipynb
 └── README.md
 ```
 
